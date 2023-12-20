@@ -1,0 +1,142 @@
+body {
+    background-color: #f6f6f6;
+    font-family: 'Pixelify Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-inline: 3%;
+}
+
+.nav_items {
+    list-style: none;
+}
+
+.nav_items li {
+    display: inline-block;
+    padding: 15px;
+}
+
+a {
+    color: black;
+}
+
+/* Solid border */
+hr.solid {
+    border-top: 3px solid #bbb;
+  }
+
+.links {
+    text-align: center;
+    padding-top: 2%;
+    padding-inline: 40%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.intro{
+    text-align: center;
+    font-size: xx-large;
+    padding-inline: 20%;
+}
+
+.break {
+    text-align: center;
+    padding-block: 2%;
+    color: #FCC01E;
+}
+
+.on_site {
+    text-align: center;
+    padding-inline: 25%;
+
+}
+
+.on_site h1 {
+    text-decoration: underline;
+    padding-block: 2%;
+}
+
+.on_site h2 {
+    font-size: xx-large;
+}
+
+.on_site p {
+    font-size: larger;
+}
+
+.overview {
+    text-align: center;
+    padding-inline: 25%;
+    line-height: 30px;
+}
+
+.overview h1 {
+    text-decoration: underline;
+}
+
+.golf {
+    text-align: center;
+    padding-inline: 25%;
+    line-height: 30px;
+}
+
+.golf h1 {
+    text-decoration: underline;
+}
+
+.project_title {
+    text-align: center;
+    padding-inline: 25%;
+    font-size: x-large;
+}
+
+.project_description {
+    text-align: center;
+    padding-inline: 25%;
+}
+
+.project_logo {
+    text-align: center;
+
+    padding-top: 4%;
+}
+
+.text {
+    text-align: center;
+    padding-inline: 25%;
+}
+
+.post_title {
+    text-align: center;
+    padding-inline: 25%;
+    font-size: x-large;
+    padding-top: 3%;
+}
+
+.post_description {
+    text-align: center;
+    padding-inline: 25%;
+}
+
+.blogintro {
+    text-align: center;
+    padding-top: 3%;
+}
+
+.blogtext {
+    text-align: center;
+    padding-inline: 25%;
+    padding-block: 2%;
+    line-height: 30px;
+}
+
+.golf .witb {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
