@@ -103,3 +103,8 @@ hr.solid {
 .caption {
     font-size: 12px;
 }
+
+.resume {
+    display: flex;
+    flex-direction: column;
+}
